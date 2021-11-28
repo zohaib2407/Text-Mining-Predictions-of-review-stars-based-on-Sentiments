@@ -1,6 +1,6 @@
 ---
 title: "Text Mining - Assignment 3"
-author: "Zohaib Sheikh, Shubham Khode, Anirudha Balkrishna"
+author: "Zohaib Sheikh"
 date: "11/21/2021"
 output: html_document
 ---
